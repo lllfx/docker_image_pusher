@@ -1,1 +1,1 @@
-aidockorg/comfyui-cuda:v0.2.7-devel
+vllm/vllm-openai:v0.7.2
