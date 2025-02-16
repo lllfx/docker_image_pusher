@@ -1,1 +1,1 @@
-zhgeng/opensora:24.11v1
+ashleykza/audiocraft:latest
