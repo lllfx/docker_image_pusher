@@ -1,1 +1,1 @@
-quincyqiang/mineru:0.3-models
+ghcr.io/eclipse-theia/theia-ide/theia-ide:1.59.1
