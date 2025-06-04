@@ -1,1 +1,1 @@
-zhangkaifang/whisperx
+zhangkaifang/whisperx:v1.0
