@@ -1,1 +1,1 @@
-ghcr.io/eclipse-theia/theia-ide/theia-ide:1.59.1
+zhangkaifang/whisperx
