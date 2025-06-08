@@ -1,1 +1,1 @@
-zhangkaifang/whisperx:v1.0
+yukiojieri/videolingo:v3.0.0
