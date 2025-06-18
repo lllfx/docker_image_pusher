@@ -1,1 +1,1 @@
-yukiojieri/videolingo:v3.0.0
+xprobe/xinference:v1.7.0.post1-cpu
