@@ -1,1 +1,1 @@
-xprobe/xinference:v1.7.0.post1-cpu
+docker.io/dustynv/onnxruntime:1.22-r36.4.0-cu128-24.04
