@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.0-cudnn9-runtime-ubuntu22.04
+freqtradeorg/freqtrade:stable_freqaitorch
