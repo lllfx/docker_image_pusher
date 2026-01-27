@@ -1,1 +1,1 @@
-pytorch/pytorch:1.8.1-cuda11.1-cudnn8-devel
+ketiroxteam/object-detection-tracking-2d:latest
